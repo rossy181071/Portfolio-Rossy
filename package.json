@@ -1,0 +1,19 @@
+{
+  "name": "lit-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server"
+  },
+  "author": "rossy181071@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "3.2.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  },
+"type": "module"
+}
+
